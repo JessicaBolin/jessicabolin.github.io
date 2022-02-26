@@ -1,0 +1,37 @@
+---
+title: "Jessica A. Bolin"
+image: "jessie.jpg"
+links:
+  - label: Email
+    url: "mailto:jessica.bolin@research.usc.edu.au"
+  - label: Twitter
+    url: "https://twitter.com/JessieABolin"
+  - label: GitHub
+    url: "https://github.com/JessicaBolin"
+  - label: Vimeo
+    url: "https://vimeo.com/jessicabolin"
+
+output:
+  postcards::trestles
+---
+
+### Bio 
+
+I am a PhD Candidate at USC Australia and CSIRO Oceans and Atmosphere, working on forecasting "jellymeat" (post-mortem myoliquefaction) in broadbill swordfish harvested off Eastern Australia. I am a Chapter Scientist and Contributing Author for the _'Oceans and Coastal Ecosystems and their Services'_ chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, and tutor ecological statistics in R at USC. Broadly, my research interests span seafood sustainability, food security, climate change, dynamic risk adaptation and planetary health. 
+
+### Publications
+
+Most recent:
+
+- **Bolin J**, Schoeman D, Evans K, Cummins S, Scales K. 2021, Achieving sustainable and climate-resilient fisheries requires marine ecosystem forecasts to include fish condition. *Fish and Fisheries*, [https://doi.org/10.1111/faf.12569](https://doi.org/10.1111/faf.12569) 
+- **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia. *Parasitology Research*, [https://doi.org/10.1007/s00436-021-07206-8](https://doi.org/10.1007/s00436-021-07206-8)
+
+A full list of my publications can be found on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for _Scientific Reports_, _Marine Biology_, _Fisheries Research_, _Marine Environmental Research_ and _Parasitology Research_.
+
+### Recorded Talks
+
+You can find all of my recorded talks on my [Vimeo](https://vimeo.com/jessicabolin) page. Some recent talks are linked below:
+
+- [Forecasting swordfish quality in a climate-change hotspot: a tool for dynamic industry adaptation](https://vimeo.com/603762394), World Fisheries Congress (2021)
+- [Advancing marine ecosystem forecasting for efficient, sustainable and climate-resilient fisheries](https://vimeo.com/558468000), Australian Marine Science Association Conference (2021)
+- [Are you ready for this jelly?](https://vimeo.com/449148624), Three-Minute Thesis Asia-Pacific Grand Final (2020)
