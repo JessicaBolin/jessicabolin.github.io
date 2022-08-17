@@ -21,15 +21,17 @@ I am a PhD Candidate at USC Australia and CSIRO Oceans and Atmosphere, working o
 
 Most recent:
 
+- Nyboer E, ..., **Bolin J** ..., Cooke S. 2022, [Goals, challenges, and next steps in transdisciplinary fisheries research: perspectives and experiences from early-career researchers](https://doi.org/10.1007/s11160-022-09719-6). *Reviews in Fish Biology and Fisheries*.
 - **Bolin J**, Schoeman D, Evans K, Cummins S, Scales K. 2021, [Achieving sustainable and climate-resilient fisheries requires marine ecosystem forecasts to include fish condition](https://doi.org/10.1111/faf.12569). *Fish and Fisheries*.
 - **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.  
-- **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*.
+<!-- - **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*. -->
 
 A full list of my publications can be found on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for _Scientific Reports_, _Marine Biology_, _Methods in Ecology and Evolution_, _Fisheries Research_, _Marine Environmental Research_, _Animals_ and _Parasitology Research_.
 
-<!-- ### Recorded Talks -->
+### Recorded Talks
 
-<!-- You can find all of my recorded talks on my [Vimeo](https://vimeo.com/jessicabolin) page. Recent talks are linked below: -->
+You can find most of my recorded talks on my [Vimeo](https://vimeo.com/jessicabolin) page. Recent talks are linked below:
 
-<!-- - [Advancing marine ecosystem forecasting for efficient, sustainable and climate-resilient fisheries](https://vimeo.com/558468000), Australian Marine Science Association Conference (2021) -->
-<!-- - [Are you ready for this jelly?](https://vimeo.com/449148624), Three-Minute Thesis Asia-Pacific Grand Final (2020) -->
+- [Forecasting the quality of high-value fish for dynamic industry adaptation](https://vimeo.com/672678510), Ocean Sciences Meeting (2022)
+- [Advancing marine ecosystem forecasting for efficient, sustainable and climate-resilient fisheries](https://vimeo.com/558468000), Australian Marine Science Association Conference (2021)
+- [Are you ready for this jelly?](https://vimeo.com/449148624), Three-Minute Thesis Asia-Pacific Grand Final (2020)
