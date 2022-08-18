@@ -17,21 +17,23 @@ output:
 
 I am a PhD Candidate at USC Australia and CSIRO Oceans and Atmosphere, working on forecasting "jellymeat" (post-mortem myoliquefaction) in broadbill swordfish harvested off Eastern Australia. I am a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_FinalDraft_Chapter03.pdf) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, and tutor ecological statistics in R at USC. Broadly, my research interests span seafood sustainability, food security, climate change, dynamic risk adaptation and planetary health. 
 
+---
+
 ### Publications
 
-Most recent:
+Recent:
 
-- Nyboer E, ..., **Bolin J** ..., Cooke S. 2022, [Goals, challenges, and next steps in transdisciplinary fisheries research: perspectives and experiences from early-career researchers](https://doi.org/10.1007/s11160-022-09719-6). *Reviews in Fish Biology and Fisheries*.
 - **Bolin J**, Schoeman D, Evans K, Cummins S, Scales K. 2021, [Achieving sustainable and climate-resilient fisheries requires marine ecosystem forecasts to include fish condition](https://doi.org/10.1111/faf.12569). *Fish and Fisheries*.
 - **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.  
 <!-- - **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*. -->
 
-A full list of my publications can be found on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for _Scientific Reports_, _Marine Biology_, _Methods in Ecology and Evolution_, _Fisheries Research_, _Marine Environmental Research_, _Animals_ and _Parasitology Research_.
+You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for _Scientific Reports_, _Marine Biology_, _Methods in Ecology and Evolution_, _Fisheries Research_, _Marine Environmental Research_, _Animals_ and _Parasitology Research_.
 
+---
 ### Recorded Talks
 
 You can find most of my recorded talks on my [Vimeo](https://vimeo.com/jessicabolin) page. Recent talks are linked below:
 
-- [Forecasting the quality of high-value fish for dynamic industry adaptation](https://vimeo.com/672678510), Ocean Sciences Meeting (2022)
-- [Advancing marine ecosystem forecasting for efficient, sustainable and climate-resilient fisheries](https://vimeo.com/558468000), Australian Marine Science Association Conference (2021)
-- [Are you ready for this jelly?](https://vimeo.com/449148624), Three-Minute Thesis Asia-Pacific Grand Final (2020)
+- [_Forecasting the quality of high-value fish for dynamic industry adaptation_, Ocean Sciences Meeting, 2022](https://vimeo.com/672678510)
+- [_Advancing marine ecosystem forecasting for efficient, sustainable and climate-resilient fisheries_, Australian Marine Sciences Association Conference, 2021](https://vimeo.com/558468000) 
+- [_Are you ready for this jelly?_ Three-Minute Thesis Asia-Pacific Final, 2020](https://vimeo.com/449148624)
