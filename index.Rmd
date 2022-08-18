@@ -13,11 +13,11 @@ output:
   postcards::trestles
 ---
 
-### Bio 
+### About me 
 
 I am a PhD Candidate at USC Australia and CSIRO Oceans and Atmosphere, working on forecasting "jellymeat" (post-mortem myoliquefaction) in broadbill swordfish harvested off Eastern Australia. I am a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_FinalDraft_Chapter03.pdf) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, and tutor ecological statistics in R at USC. Broadly, my research interests span seafood sustainability, food security, climate change, dynamic risk adaptation and planetary health. 
 
----
+
 
 ### Publications
 
@@ -29,7 +29,7 @@ Recent:
 
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for _Scientific Reports_, _Marine Biology_, _Methods in Ecology and Evolution_, _Fisheries Research_, _Marine Environmental Research_, _Animals_ and _Parasitology Research_.
 
----
+
 ### Recorded Talks
 
 You can find most of my recorded talks on my [Vimeo](https://vimeo.com/jessicabolin) page. Recent talks are linked below:
