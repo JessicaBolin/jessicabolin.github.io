@@ -15,7 +15,7 @@ output:
 
 ### About me 
 
-I am a PhD Candidate at USC Australia and CSIRO Oceans and Atmosphere, working on forecasting "jellymeat" (post-mortem myoliquefaction) in broadbill swordfish harvested off Eastern Australia. I am a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://www.ipcc.ch/report/ar6/wg2/) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, and tutor ecological statistics in R at USC. Broadly, my research interests span seafood sustainability, food security, climate change, dynamic risk adaptation and planetary health. 
+I am a PhD Candidate at USC Australia and CSIRO Environment, working on forecasting "jellymeat" (post-mortem myoliquefaction) in broadbill swordfish harvested off Eastern Australia. I am a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://www.ipcc.ch/report/ar6/wg2/) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, and tutor ecological statistics in R at USC. Broadly, my research interests span seafood sustainability, food security, climate change, dynamic risk adaptation and planetary health. 
 
 
 
