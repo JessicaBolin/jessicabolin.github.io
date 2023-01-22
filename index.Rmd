@@ -19,30 +19,24 @@ I am a PhD Candidate at UniSC Australia and CSIRO Environment, working on foreca
 
 ### Publications
 
-Recent:
+First author:
 
 -   **Bolin J**, Schoeman D, Evans K, Cummins S, Scales K. 2021, [Achieving sustainable and climate-resilient fisheries requires marine ecosystem forecasts to include fish condition](https://doi.org/10.1111/faf.12569). *Fish and Fisheries*.
--   **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.\
+-   **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.
 -   **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*.
 
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for *Scientific Reports*, *Marine Biology*, *Methods in Ecology and Evolution*, *ICES Journal of Marine Science*, *Fisheries Research*, *Marine Environmental Research*, *Animals* and *Parasitology Research*.
 
 ### Talks and graphic designs
 
-You can find most of my recorded talks on my [Vimeo](https://vimeo.com/jessicabolin) page. Recent talks are linked below:
+You can find most of my recorded talks for conferences, lectures and outreach activities on my [Vimeo](https://vimeo.com/jessicabolin) page. I also enjoy creating posters, infographics, and scientific illustrations for my publications and presentations. Examples are available via my [Flickr](https://www.flickr.com/photos/197049277@N08/) page.
 
--   [*Forecasting the quality of high-value fish for dynamic industry adaptation*, Ocean Sciences Meeting, 2022](https://vimeo.com/672678510)
--   [*Advancing marine ecosystem forecasting for efficient, sustainable and climate-resilient fisheries*, Australian Marine Sciences Association Conference, 2021](https://vimeo.com/558468000)
--   [*Are you ready for this jelly?* Three-Minute Thesis Asia-Pacific Final, 2020](https://vimeo.com/449148624)
+### Tools
 
-I enjoy creating posters, infographics, and scientific illustrations for my publications and presentations. Examples are available via my [Flickr](https://www.flickr.com/photos/197049277@N08/) page.
-
-### Tools 
-
-**Regularly use:**
+Regularly use:
 
 ![R](https://img.shields.io/badge/R-6495ED?style=for-the-badge&logo=R&logoColor=white) ![git](https://img.shields.io/badge/git-6495ED?style=for-the-badge&logo=git&logoColor=white&) ![github](https://img.shields.io/badge/Github-6495ED?style=for-the-badge&logo=github&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-6495ED?style=for-the-badge&logo=apple&logoColor=white) ![bash](https://img.shields.io/badge/zsh-6495ED?style=for-the-badge&logo=gnubash&logoColor=white) ![Photoshop](https://img.shields.io/badge/Illustrator-6495ED?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white) ![filezilla](https://img.shields.io/badge/Filezilla-6495ED?style=for-the-badge&logo=filezilla&logoColor=white) ![emacs](https://img.shields.io/badge/emacs-6495ED?style=for-the-badge&logo=gnuemacs&logoColor=white) ![notion](https://img.shields.io/badge/Notion-6495ED?style=for-the-badge&logo=notion&logoColor=white)
 
-**Learning:**
+Learning:
 
 ![HPC](https://img.shields.io/badge/HPC-6495ED?style=for-the-badge&logo=icloud&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-6495ED?style=for-the-badge&logo=qgis&logoColor=white) ![Photoshop2](https://img.shields.io/badge/Photoshop-6495ED?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Python](https://img.shields.io/badge/Python-6495ED?style=for-the-badge&logo=python&logoColor=white)
