@@ -18,7 +18,7 @@ output:
 ---
 
 ::: callout-tip
-## I'm looking for a postdoc
+### I'm looking for a postdoc
 
 I submitted my PhD for examination in September 2023, and am looking for a postdoc position in 2024 that's aligned with my research interests. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. I'm open to moving interstate or overseas, and join a computational-based team working on applied, interdisciplinary questions. I'm especially keen to learn more about bayesian statistics and fisheries climate adaptation.
 :::
@@ -37,4 +37,3 @@ First author:
 -   **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*.
 
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen and available to serve as a reviewer. So far, I have reviewed for *Fisheries Oceanography*, *Scientific Reports*, *Marine Biology*, *Methods in Ecology and Evolution*, *Movement Ecology*, *ICES Journal of Marine Science*, *Fisheries Research*, *Conservation Science and Practice, Marine Environmental Research*, *Animals* and *Parasitology Research*.
-
