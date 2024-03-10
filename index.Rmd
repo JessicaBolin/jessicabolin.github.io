@@ -1,37 +1,39 @@
 ---
-title: "Jessica A. Bolin"
-image: "jessie.jpg"
+title: "Dr. Jessica A. Bolin"
+image: "jessie.JPG"
 leftsize: 3
 links:
   - label: Email
-    url: "mailto:jessica.bolin@research.usc.edu.au"
+    url: "mailto:jessica.anne.bolin@gmail.com"
+  - label: Google Scholar
+    url: "https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en"
   - label: Twitter
     url: "https://twitter.com/JessieABolin"
   - label: GitHub
     url: "https://github.com/JessicaBolin"
-  - label: Recorded talks and seminars
+  - label: Recorded talks
     url: "https://vimeo.com/jessicabolin"
-  - label: Posters and graphic designs
+  - label: Posters/graphic designs
     url: "https://www.flickr.com/photos/197049277@N08/"
 output:
   postcards::trestles
 ---
 
 ::: callout-tip
-### I'm looking for a postdoc
+### I'm looking for a postdoc!
 
-I submitted my PhD for examination in September 2023, and am looking for a postdoc position in 2024 that's aligned with my research interests. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. I'm open to moving interstate or overseas, and join a computational-based team working on applied, interdisciplinary questions. I'm especially keen to learn more about bayesian statistics and fisheries climate adaptation.
+I submitted my PhD for examination in September 2023, and am looking for a postdoc position in 2024 that's aligned with my research interests. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. I'm open to moving interstate or overseas, and join a computational-based team working on applied, interdisciplinary questions. I'm especially keen to learn more about Bayesian statistics and fisheries climate adaptation.
 :::
 
 ### About me
 
-I am a PhD Candidate and quantitative marine ecologist at UniSC Australia and CSIRO Environment, working on forecasting and projecting parasitic infection in broadbill swordfish responsible for causing "jellymeat" (post-mortem myoliquefaction) off Eastern Australia. I was a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://www.ipcc.ch/report/ar6/wg2/) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, and also tutor ecological statistics in R at UniSC.
+I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. My PhD was recently conferred at UniSC Australia and CSIRO Environment, where I worked on predicting, forecasting and projecting parasitic infection in broadbill swordfish responsible for causing "jellymeat" (post-mortem myoliquefaction) off Eastern Australia. In addition to my PhD, I (i) was a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://www.ipcc.ch/report/ar6/wg2/) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, (ii) tutored ecological statistics in R, and (iii) supervised undergraduate and honours research students at UniSC. 
 
 ### Publications
 
 First author:
 
--   **Bolin J**, Evans K, Schoeman D, Spillman C, Moore II T, Hartog J, Cummins, S & Scales K. 2024, A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish. *Fisheries Oceanography*. Accepted.
+-   **Bolin J**, Evans K, Schoeman D, Spillman C, Moore II T, Hartog J, Cummins, S & Scales K. 2024, [A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish](https://doi.org/10.1111/fog.12669). *Fisheries Oceanography*. 
 -   **Bolin J**, Schoeman D, Evans K, Cummins S, Scales K. 2021, [Achieving sustainable and climate-resilient fisheries requires marine ecosystem forecasts to include fish condition](https://doi.org/10.1111/faf.12569). *Fish and Fisheries*.
 -   **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.
 -   **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*.
