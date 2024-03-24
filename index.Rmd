@@ -19,15 +19,9 @@ output:
   postcards::trestles
 ---
 
-::: callout-tip
-### I'm looking for a postdoc!
-
-I submitted my PhD for examination in September 2023, and am looking for a postdoc position in 2024 that's aligned with my research interests. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. I'm open to moving interstate or overseas, and join a computational-based team working on applied, interdisciplinary questions. I'm especially keen to learn more about Bayesian statistics and fisheries climate adaptation.
-:::
-
 ### About me
 
-I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. My PhD was recently conferred at UniSC Australia and CSIRO Environment, where I worked on predicting, forecasting and projecting parasitic infection in broadbill swordfish responsible for causing "jellymeat" (post-mortem myoliquefaction) off Eastern Australia. In addition to my PhD, I (i) was a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://www.ipcc.ch/report/ar6/wg2/) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, (ii) tutored ecological statistics in R, and (iii) supervised undergraduate and honours research students at UniSC. 
+I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. My PhD was recently conferred at UniSC Australia and CSIRO Environment, where I worked on predicting, forecasting and projecting parasitic infection in broadbill swordfish responsible for causing "jellymeat" (post-mortem myoliquefaction) off Eastern Australia. In addition to my PhD, I (i) was a Chapter Scientist and Contributing Author for the ['Oceans and Coastal Ecosystems and their Services'](https://www.ipcc.ch/report/ar6/wg2/) chapter for Working Group Two's contribution to the IPCC's Sixth Assessment Report, (ii) tutored ecological statistics in R, and (iii) supervised undergraduate and honours research students at UniSC. 
 
 ### Publications
 
