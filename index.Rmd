@@ -15,13 +15,15 @@ links:
     url: "https://vimeo.com/jessicabolin"
   - label: Posters/graphic designs
     url: "https://www.flickr.com/photos/197049277@N08/"
+  - label: UCD Profile
+    url: "https://marinescience.ucdavis.edu/people/jessica-bolin"
 output:
   postcards::trestles
 ---
 
 ### About me
 
-I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. Currently, I'm a postdoc at UC Davis in the [Provost Lab](https://mmprovost.com/), working on climate refugia for red abalone across California's marine estate. Outside of work, you can most likely find me hiking, kayaking or mountain biking somewhere in NorCal..!
+I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. Currently, I'm a postdoc at UC Davis in the [Provost Lab](https://mmprovost.com/), working on climate refugia for red abalone across California's marine estate. Outside of work, you can most likely find me hiking, kayaking or mountain biking somewhere in NorCal..!  
 
 ### Publications
 
@@ -32,4 +34,8 @@ First author:
 -   **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.
 -   **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*.
 
-You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. I'm also keen to serve as a reviewer. So far, I have reviewed for *Fisheries Oceanography*, *Scientific Reports*, *Marine Biology*, *Methods in Ecology and Evolution*, *Movement Ecology*, *ICES Journal of Marine Science*, *Fisheries Research*, *Conservation Science and Practice, Marine Environmental Research*, *Animals* and *Parasitology Research*.
+You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. 
+
+### Data Science Education
+
+[Coming soon!]
