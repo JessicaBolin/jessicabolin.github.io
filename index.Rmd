@@ -21,19 +21,8 @@ output:
 
 ### About me
 
-I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. Currently, I'm a postdoc at UC Davis in the [Provost Lab](https://mmprovost.com/), working on climate refugia for red abalone across California's marine estate. Outside of work, you can most likely find me hiking somewhere in Desolation Wilderness.   
-
-### Publications
-
-First author:
-
--   **Bolin J**, Evans K, Schoeman D, Spillman C, Moore II T, Hartog J, Cummins, S & Scales K. 2024, [A warming western boundary current increases the prevalence of commercially disruptive parasites in broadbill swordfish](https://doi.org/10.1111/fog.12669). *Fisheries Oceanography*. 
--   **Bolin J**, Schoeman D, Evans K, Cummins S, Scales K. 2021, [Achieving sustainable and climate-resilient fisheries requires marine ecosystem forecasts to include fish condition](https://doi.org/10.1111/faf.12569). *Fish and Fisheries*.
--   **Bolin J**, Cummins S, Mitu S, Schoeman D, Evans K, Scales K. 2021, [First report of *Kudoa thunni* and *Kudoa musculoliquefaciens* affecting the quality of commercially harvested yellowfin tuna and broadbill swordfish in Eastern Australia](https://doi.org/10.1007/s00436-021-07206-8). *Parasitology Research*.
--   **Bolin J**, Schoeman D, Piza-Roca C, Scales K. 2020, [A current affair: entanglement of humpback whales in coastal shark-control nets](https://doi.org/10.1002/rse2.133). *Remote Sensing in Ecology and Conservation*.
-
-You can find a full list of my publications on my [Google Scholar](https://scholar.google.com.au/citations?user=ahZht6IAAAAJ&hl=en) page. 
+I am a quantitative marine ecologist interested in applied research for a more proactive, sustainable and climate-resilient world. Broadly, my interests span seafood sustainability, fisheries, climate change, dynamic risk adaptation and ecological forecasting. Currently, I'm a postdoc at UC Davis in the [Provost Lab](https://mmprovost.com/), working on climate refugia for red abalone across California's marine estate. Outside of work, you can most likely find me hiking somewhere in Desolation Wilderness, Yosemite or Inyo NF.   
 
 ### Data Science Education
 
-Workshop: [R for marine ecologists: wrangling Earth System Model outputs](https://jessicabolin.quarto.pub/esmrworkshop2025/), 2025. In-person at Bodega Marine Lab, CA. 
+- [R for marine ecologists: wrangling Earth System Model outputs](https://jessicabolin.quarto.pub/esmrworkshop2025/), 2025. Full-day workshop.
